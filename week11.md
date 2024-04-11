@@ -1,4 +1,4 @@
-Reflection on Reality-Based Interaction Framework
+Reality-Based Interaction Framework
 ===
 The document delves into the nuances of the Reality-Based Interaction (RBI) framework, which represents a significant shift in human-computer interaction (HCI) design and theory. The RBI framework is posited as an emerging paradigm that integrates the physical and social realities of user interaction more deeply into computing experiences. The framework's foundation on four key themes—naïve physics, body awareness and skills, environment awareness and skills, and social awareness and skills—provides a robust structure for analyzing and guiding the design of new interaction styles beyond the Graphical User Interface (GUI) paradigm.
 
