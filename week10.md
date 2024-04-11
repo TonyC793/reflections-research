@@ -1,4 +1,4 @@
-Reflection on "Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization"
+Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization
 ===
 The paper "Making Data Tangible: A Cross-disciplinary Design Space for Data Physicalization" explores an innovative domain of data representation that extends beyond traditional, digital visualization methods to embody data in the physical world. It emphasizes the importance of tangible interactions with data, proposing that such physicality can enhance comprehension, engagement, and emotional connection with the represented information. Through various examples, the paper showcases how data physicalization translates abstract datasets into physical forms that can be interacted with, thereby offering novel insights and a deeper understanding of the underlying information.
 
